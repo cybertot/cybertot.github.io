@@ -1,0 +1,6 @@
+DEFAULTDELAY 1000
+GUI b
+ALT D
+DELAY 1000
+STRING https://cyber-trick-or-treat.com
+ENTER
