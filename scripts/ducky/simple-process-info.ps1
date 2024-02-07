@@ -18,3 +18,4 @@ Memory (Working Set): $($process.WorkingSet)
 
 Write-Host "Process information written to $filePath"
 
+# powershell.exe -windowstyle hidden -NoProfile -ExecutionPolicy Bypass -Command "(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/cybertot/cybertot.github.io/main/scripts/ducky/simple-process-info.ps1') | IEX"
